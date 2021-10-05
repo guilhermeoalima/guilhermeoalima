@@ -1,4 +1,6 @@
-<h1 align="center">Hi there👋, I'm Guilherme</h1>
+### Hi there 👋
+
+<!-- <h1 align="center">Hi there👋, I'm Guilherme</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/guilhermeoal" target="_blank">
@@ -16,7 +18,7 @@
 
 - :mortar_board: I have a bachelor degree in computer engineering
 
-- 📫 Reach me at **guilhermedeoalima@gmail.com**
+- 📫 Reach me at **guilhermedeoalima@gmail.com** -->
 
 <!---
 <p align="center">
